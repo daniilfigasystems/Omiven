@@ -1,0 +1,9 @@
+{
+    "[m68k]": {
+        "editor.rulers": []
+    },
+    "files.associations": {
+        "video.h": "c",
+        "printf.h": "c"
+    }
+}
